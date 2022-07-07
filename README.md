@@ -6,7 +6,7 @@
 
 ### About Me 🙋‍♂️
 - I love learning and I am always trying new things. 💡
-- I am an experienced barista and you can find me making coffee many days a week at Thinking Cup on Newbury St. ☕
+- I am an experienced barista & you can find me making coffee at Thinking Cup on Newbury St. ☕
 - Currently while I am not doing school work, I am learning React and programming Arduino peripherals! 👨‍💻
 
 ### Add me on LinkedIn! 🤝
