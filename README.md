@@ -1,8 +1,8 @@
 ### Hi! I'm Zach Baker 👋🏻
 
-## Student at Wentworth Institute of Technology  📚
-- I will graduate on August 21st 2022 👨🏻‍🎓
-- I will have a BS in Computer Science with a minor in Applied Mathematics 💻 
+## Alumni of Wentworth Institute of Technology  📚
+- I graduated on August 21st 2022 👨🏻‍🎓
+- I have a BS in Computer Science with a minor in Applied Mathematics 💻 
 
 ### About Me 🙋‍♂️
 - I love learning and I am always trying new things. 💡
