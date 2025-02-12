@@ -6,8 +6,7 @@
 
 ### About Me 🙋‍♂️
 - I love learning and I am always trying new things. 💡
-- I currently work at HighRes Biosolutions as an Associate Robotics Automation Engineer
-- I haven't had any personal projects in a little while, but I am interested in Web Scraping & Front End!
+- I currently work at Automata as a Device Integrations Engineer
 
 ### Add me on [LinkedIn][linkedin]! 🤝
 [linkedin]: https://www.linkedin.com/in/zachary---baker/
